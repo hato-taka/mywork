@@ -107,6 +107,7 @@ Works
 #works li img{
   object-fit: cover;
   max-height: 100%;
+  width:300px
 }
 
 /* 
